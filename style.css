@@ -165,9 +165,8 @@ h5{
 }
 
 #heading #secondh1{
-    margin-left: 14.375rem;
+    margin-left: 16.5rem;
     font-family: 'Poppins', sans-serif;
-
     background: #4D5ACF;
     background: -webkit-linear-gradient(to right, #4D5ACF 0%, #CF6357 100%);
     background: -moz-linear-gradient(to right, #4D5ACF 0%, #CF6357 100%);
@@ -754,14 +753,14 @@ h5:hover{
     opacity: 1;
 }
 
-#preloader{
+/* #preloader{
     background: black url(loadernew.gif) no-repeat center center;
     background-size: 80%;
     height: 100vh;
     width: 100%;
     position: fixed;
     z-index: 100;
-}
+} */
 
 
 

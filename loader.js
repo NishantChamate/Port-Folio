@@ -1,11 +1,11 @@
-document.addEventListener("DOMContentLoaded", function() {
+// document.addEventListener("DOMContentLoaded", function() {
 
-    setTimeout(function() {
-        hidePreloader();
-    }, 1000);
-});
+//     setTimeout(function() {
+//         hidePreloader();
+//     }, 1000);
+// });
 
-function hidePreloader() {
+// function hidePreloader() {
 
-    document.getElementById("preloader").style.display = "none";
-}
+//     document.getElementById("preloader").style.display = "none";
+// }
